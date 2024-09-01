@@ -20,8 +20,9 @@
 ###
 
 <div align="left">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAPRJREFUSEvFlWsOAiEMhGdP5noy9WSuJ1Pnx2wKlPIwxCYaE6QfMy1lw+LYFufHXwBPAPuksgPA1e71FCwH3AHcViqwgERuAKVqxuP7xf1neBblAPoaBev1M4DQS0BRU1BxciBPgT2RNvQWfhggT6O25ZqaogtAJ961ojk22ZoVjtRusgBRgamO69a+KQATWRskwqtPN0Cn0tW3ha8BijHBP9YsygFKShA/9jJZO4uL2QIwsTbl9RBMHTSkwJtHArwqs6oYE5FFMwNvCKCLRfmtt4GJGcmQU9F6XzTbpvwdJm1N08bwHFvuVTCWtfEeTCfzNn4AAlw+GR/PZFIAAAAASUVORK5CYII=" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://i.pinimg.com/564x/04/15/29/041529fefa51c23f7c2171e033147f0e.jpg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
