@@ -30,8 +30,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://i.pinimg.com/564x/f4/06/ef/f406ef95c81461c9516423d785f6757c.jpg" height="40" alt="php logo"  />
-  <box-icon type='logo' name='javascript'></box-icon>
 </div>
 
 ###
