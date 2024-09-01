@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-  <img src="https://i.pinimg.com/564x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg"  title="Tricks Site" height="40" alt="html logo"  />
+  <img src="https://i.pinimg.com/564x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg" name="sas" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://i.pinimg.com/564x/b7/c2/e5/b7c2e508920a1168b94dea8675fa311d.jpg" height="40" alt="css logo"  />
   <img width="12" />
