@@ -20,15 +20,16 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://i.pinimg.com/564x/ca/e1/b4/cae1b4f6b223fe5a7bb712b680cffa67.jpg" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://i.pinimg.com/564x/b7/c2/e5/b7c2e508920a1168b94dea8675fa311d.jpg" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://i.pinimg.com/564x/f4/06/ef/f406ef95c81461c9516423d785f6757c.jpg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://i.pinimg.com/564x/f4/06/ef/f406ef95c81461c9516423d785f6757c.jpg" height="40" alt="php logo"  />
   <box-icon type='logo' name='javascript'></box-icon>
 </div>
 
