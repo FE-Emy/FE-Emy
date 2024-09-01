@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://i.pinimg.com/564x/e1/1f/0d/e11f0d2cda0ac2c6fa6e645689f727ae.jpg" height="40" alt="nodejs logo"  />
+  <img width="12" />
 </div>
 
 ###
