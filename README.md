@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Emy and I'm a Full Stack Developer & Software Engineer, from Germany</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I am studying full-stack development with a focus on both front-end and back-end technologies. I have a strong passion for web design and front-end development, while also working on building robust back-end solutions. I am committed to honing my skills in both areas to create complete and efficient applications. I am open to discussions and job opportunities in the web and software development fields – feel free to reach out for collaborations and job offers!.</p>
 
 ###
 
