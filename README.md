@@ -1,4 +1,4 @@
-<head><link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"></head>
+<head><link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel='stylesheet'></head>
 <h1 align="left">Hey 👋</h1>
 
 ###
