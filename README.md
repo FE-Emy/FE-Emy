@@ -11,7 +11,19 @@
 
 ###
 
-<p align="left">I am studying full-stack development with a focus on both front-end and back-end technologies. I have a strong passion for web design and front-end development, while also working on building robust back-end solutions. I am committed to honing my skills in both areas to create complete and efficient applications. I am open to discussions and job opportunities in the web and software development fields – feel free to reach out for collaborations and job offers!.</p>
+<p align="left">I am studying at Io Academy IN England full-stack development with a focus on both front-end and back-end technologies.I have a strong passion for web design and front-end development, while also working on building robust back-end solutions. I am committed to honing my skills in both areas to create complete and efficient applications. I am open to discussions and job opportunities in the web and software development fields – feel free to reach out for collaborations and job offers!.</p>
+
+###
+
+<h2 align="left">Languages Spoken</h2>
+
+###
+
+<ul>
+  <li>English - Fluent</li>
+  <li>German - Fluent</li>
+  <li>Romanian - Native</li>
+</ul>
 
 ###
 
