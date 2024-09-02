@@ -32,10 +32,14 @@
 ###
 
 <ul>
-  <li>Languages:HTML, CSS, JavaScript, PHP, React, MySQL</li>
-  <li>Tools & Frameworks:** Git, Agile, JSON API</li>
+  <li>Languages: HTML, CSS, JavaScript, PHP, React, MySQL</li>
+  <li>Tools & Frameworks: Git, Agile, JSON API</li>
   <li>Other Skills: Problem-solving, Team collaboration, Project management, Communication , Adaptability, Flexibility</li>
 </ul>
+
+###
+
+<p>Note: Some of these skills are currently in development and will be further enhanced through my ongoing bootcamp training and professional growth.</p>
 
 <h2>Certifications</h2>
 
