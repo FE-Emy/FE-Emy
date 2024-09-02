@@ -27,6 +27,11 @@
 
 ###
 
+<h2>Certifications</h2>
+
+<p>Certified in Agile Methodologies Issued by The CPD Certification Service.
+  Organizer Mike Oram iO Academy, 26th July 2024</p>
+
 <h2 align="left">I code with</h2>
 
 ###
