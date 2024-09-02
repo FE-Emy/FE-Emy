@@ -52,7 +52,7 @@
 
 ###
 
-[My first Portfolio](https://fe-emy.github.io/portofolio/)
+<a href="https://fe-emy.github.io/portofolio/" target="_blank">My first Portfolio</a>
 
 <h2 align="left">I code with</h2>
 
