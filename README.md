@@ -28,6 +28,9 @@
 ###
 
 <h2>Skills</h2>
+
+###
+
 <ul>
   <li>Languages: HTML, CSS, JavaScript, PHP, React, MySQL</li>
   <li>Tools & Frameworks: Git, Agile, JSON API</li>
