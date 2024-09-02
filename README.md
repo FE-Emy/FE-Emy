@@ -52,3 +52,4 @@
 </div>
 
 ###
+<p>Feel free to reach out for job opportunities, freelance projects, or collaborations!</p>
