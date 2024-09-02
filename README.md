@@ -28,9 +28,6 @@
 ###
 
 <h2>Skills</h2>
-
-###
-
 <ul>
   <li>Languages: HTML, CSS, JavaScript, PHP, React, MySQL</li>
   <li>Tools & Frameworks: Git, Agile, JSON API</li>
@@ -45,6 +42,10 @@
 
 <p>Certified in Agile Methodologies Issued by The CPD Certification Service.<br>
   iO Academy,July 2024</p>
+
+###
+
+
 
 <h2 align="left">I code with</h2>
 
