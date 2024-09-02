@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I am studying at Io Academy In England full-stack development with a focus on both front-end and back-end technologies.I have a strong passion for web design and front-end development, while also working on building robust back-end solutions. I am committed to honing my skills in both areas to create complete and efficient applications. I am open to discussions and job opportunities in the web and software development fields – feel free to reach out for collaborations and job offers!.</p>
+<p align="left">I am currently studying full-stack development at Io Academy in England, focusing on both front-end and back-end technologies. My passion lies in web design and front-end development, while I am also building robust back-end solutions. I am dedicated to enhancing my skills in both areas to create comprehensive and efficient applications. Open to discussions, job opportunities, and collaborations in the web and software development fields. Feel free to reach out for job offers or freelance projects!</p>
 
 ###
 
