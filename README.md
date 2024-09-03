@@ -54,23 +54,24 @@
 
 <a href="https://fe-emy.github.io/portofolio/" target="_blank">My first Portfolio</a>
 <p>Technologies Used
-, <b>PHP</b>
-, CSS
-, MySql
-, Heroku
-, JawDB
--  
-, Git
-, PHP Storm</p>
+- <b>HTML</b>
+- <b>CSS</b>
+- <b>GIT</b>
+- <b>PHP Storm</b>
 
 ###
 
 <a href="https://collector-app-4933a67ea673.herokuapp.com/" target="_blank">Collector App</a>
 <p>Technologies Used
-- HTML
-- CSS
-- Git
-- PHP Storm</p>
+, <b>PHP</b>
+, <b>MySql</b>
+, <b>Docker</b>
+, <b>Heroku</b>
+, <b>JawDB</b>
+, <b>Git</b>
+, <b>PHP Storm</b>
+
+###
 
 <h2 align="left">I code with</h2>
 
