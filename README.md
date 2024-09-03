@@ -54,6 +54,19 @@
 
 <a href="https://fe-emy.github.io/portofolio/" target="_blank">My first Portfolio</a>
 <p>Technologies Used
+, <b>PHP</b>
+, CSS
+, MySql
+, Heroku
+, JawDB
+-  
+, Git
+, PHP Storm</p>
+
+###
+
+<a href="https://collector-app-4933a67ea673.herokuapp.com/" target="_blank">Collector App</a>
+<p>Technologies Used
 - HTML
 - CSS
 - Git
