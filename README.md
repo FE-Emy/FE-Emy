@@ -53,6 +53,11 @@
 ###
 
 <a href="https://fe-emy.github.io/portofolio/" target="_blank">My first Portfolio</a>
+<p>Technologies Used
+- HTML
+- CSS
+- Git
+- PHP Storm</p>
 
 <h2 align="left">I code with</h2>
 
