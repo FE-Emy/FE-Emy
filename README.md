@@ -67,7 +67,7 @@
 , <b>MySql</b>
 , <b>Docker</b>
 , <b>Heroku</b>
-, <b>JawDB</b>
+, <b>JawsDB</b>
 , <b>Git</b>
 , <b>PHP Storm</b>
 
