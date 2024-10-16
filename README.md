@@ -32,8 +32,8 @@
 ###
 
 <ul>
-  <li>Languages: HTML, CSS, JavaScript, PHP, React, MySQL</li>
-  <li>Tools & Frameworks: Git, Agile, JSON API</li>
+  <li>Languages & Libraries: HTML, CSS, JavaScript, PHP, React</li>
+  <li>Tools & Frameworks: Git, JSON API, Tailwind CSS</li>
   <li>Other Skills: Problem-solving, Team collaboration, Project management, Communication , Adaptability, Flexibility</li>
 </ul>
 
