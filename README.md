@@ -5,6 +5,8 @@
 
 <p align="left">My name is Emy and I'm a Full Stack Developer & Software Engineer, from Germany</p>
 
+View my Portfolio here: [Portfolio](https://fe-emy.github.io/mainPortfolio/)
+
 ###
 
 <h2 align="left">About me</h2>
