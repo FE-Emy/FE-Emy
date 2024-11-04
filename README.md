@@ -75,6 +75,17 @@ View my Portfolio here: [Portfolio](https://fe-emy.github.io/mainPortfolio/)
 
 ###
 
+<a href="https://collector-app-4933a67ea673.herokuapp.com/" target="_blank">Email Client Team Project</a>
+<p>Technologies Used:
+  <b>React</b>
+, <b>Tailwind CSS</b>
+, <b>JavaScript</b>
+, <b>Git</b>
+, <b>PHP Storm</b>
+
+###
+
+
 <h2 align="left">I code with</h2>
 
 ###
