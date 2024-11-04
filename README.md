@@ -75,7 +75,7 @@ View my Portfolio here: [Portfolio](https://fe-emy.github.io/mainPortfolio/)
 
 ###
 
-<a href="https://collector-app-4933a67ea673.herokuapp.com/" target="_blank">Email Client Team Project</a>
+<a href="https://2024-red-pandas-email-client.dev.io-academy.uk/" target="_blank">Email Client. Team Project</a>
 <p>Technologies Used:
   <b>React</b>
 , <b>Tailwind CSS</b>
